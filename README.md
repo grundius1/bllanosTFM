@@ -10,3 +10,11 @@ Este TFM utiliza técnicas de Machine Learning aplicadas a la predicción de vid
 -   Preprocesar los datos 
 -	Desarrollar y entrenar modelos de machine learning y/ redes neuronales 
 -	Evaluar los modelos usados 
+
+# Licencia
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+# Disclaimer
+Los modelos entrenado no se han subido por exceso de tamaño
