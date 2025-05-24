@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# models
+best_lstm_model_final_kt.h5
+best_lstm_model_scaled_kt.h5
+final_models/
